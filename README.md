@@ -1,4 +1,6 @@
-![Screenshot 1](assets/showcase/1.png)   ![Screenshot 2](assets/showcase/2.png)   ![Screenshot 3](assets/showcase/3.png)
+![Screenshot 1](assets/showcase/1.png)
+![Screenshot 2](assets/showcase/2.png)
+![Screenshot 3](assets/showcase/3.png)
 
 A clean and simple Flutter app for a grocery shopping experience
 
