@@ -1,6 +1,9 @@
-![Screenshot 1](assets/showcase/1.png)
-![Screenshot 2](assets/showcase/2.png)
-![Screenshot 3](assets/showcase/3.png)
+<p align="center">
+  <img src="assets/showcase/1.png" alt="Screenshot 1" width="250"/>
+  <img src="assets/showcase/2.png" alt="Screenshot 2" width="250"/>
+  <img src="assets/showcase/3.png" alt="Screenshot 3" width="250"/>
+</p>
+
 
 A clean and simple Flutter app for a grocery shopping experience
 
