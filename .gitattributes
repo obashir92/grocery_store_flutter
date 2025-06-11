@@ -1,4 +1,13 @@
+# Ignore Android and iOS native code
 android/** linguist-vendored
 ios/** linguist-vendored
-**/*.cpp linguist-generated
-**/*.h linguist-generated
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+
+# Ignore build config files
+*.cmake linguist-generated
+CMakeLists.txt linguist-generated
+
+# Optionally ignore build outputs
+build/** linguist-generated
